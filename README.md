@@ -7,5 +7,10 @@ Authors embed [flowkey](http://www.flowkey.com/) songs inside the course. Just p
   - Twinkle Twinkle Little Star
   - Marry Had A little Lamb 
 
+## Changelog
 
+### 0.0.8
+
+* Updates description
+* Fixes loading bug
 
