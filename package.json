@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "test": "karma start --browsers Firefox --single-run"
+    "test": "karma start --browsers Firefox --single-run",
+    "build": "echo nothing to do",
+    "upload": "versal upload"
   },
   "devDependencies": {
     "chai": "*",
