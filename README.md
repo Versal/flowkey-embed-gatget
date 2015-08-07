@@ -9,6 +9,10 @@ Authors embed [flowkey](http://www.flowkey.com/) songs inside the course. Just p
 
 ## Changelog
 
+### 0.0.9
+
+* Added example URL
+
 ### 0.0.8
 
 * Updates description
