@@ -6,7 +6,6 @@
   "description": "flowkey is a music learning program that uses your microphone to monitor how you play and adjust to your playing tempo.",
   "author": "flowkey",
   "launcher": "iframe",
-  "exampleUrl": "https://versal.com/c/yaz12i/learn",
   "defaultConfig": {
     "embedCode": "//app.flowkey.com/player/4EmWxxNgaBRBdXgA6"
   }
