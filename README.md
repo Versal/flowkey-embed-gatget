@@ -9,6 +9,10 @@ Authors embed [flowkey](http://www.flowkey.com/) songs inside the course. Just p
 
 ## Changelog
 
+### 0.0.11
+
+* Remove example URL due to bad UX because of fullscreen
+
 ### 0.0.10
 
 * Remove hardcoded width
